@@ -17,6 +17,7 @@ public class GenericTree<T> {
 
     public GenericTreeNode<T> getRoot() {
         String zomgowaVara = "Zomgowo";
+        Integer a = new Integer(5);
         return this.root;
     }
 
